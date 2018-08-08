@@ -1,0 +1,6 @@
+jetbrains-toolbox
+nodejs
+go
+docker
+virtualbox-host-modules-arch
+virtualbox
