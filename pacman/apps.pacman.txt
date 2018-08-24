@@ -1,4 +1,6 @@
 jetbrains-toolbox
+jdk10-openjdk
+gradle
 nodejs
 go
 docker
